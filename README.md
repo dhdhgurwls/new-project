@@ -3,7 +3,7 @@
   <head>
     자기소개서 페이지
   </head>
-  <style>
+    <style>
     .col1 {
       background-color: yellow;
     }
@@ -26,7 +26,7 @@ li:hover {background-color: red; color: black;}
     li:active{background-color: white;color: red;}
     li:hover{font-size: large;font-style: oblique;font-weight: bold;}
 td:hover{background-color: red;color: white;}
-  </style>
+</style>
   <h1>자기소개서 페이지</h1>
   <hr />
   <h3>안녕하세요! 저는 오혁진입니다.</h3>
@@ -55,7 +55,7 @@ td:hover{background-color: red;color: white;}
     바로가기
     <ul class="menus">
         
-        <li>취미</li>
+  <li>취미</li>
         <li>꿈</li>
         <li>좋아하는책</li>
         <li>이메일 주소</li>
@@ -63,7 +63,7 @@ td:hover{background-color: red;color: white;}
       </ul>
       <hr />
 
-      <div>
+  <div>
         <h4>[취미]</h4>
         <h6>
           제 취미는 음악듣기와 운동입니다. 특히 운동하면서 음악감상을 하는 것을
@@ -107,7 +107,7 @@ td:hover{background-color: red;color: white;}
             <td>금요일</td>
           </tr>
 
-          <tr>
+  <tr>
             <td>09:00~09:30</td>
             <td rowspan="6">웹프로그래밍</td>
             <td rowspan="3">컴퓨터 개론</td>
@@ -116,40 +116,40 @@ td:hover{background-color: red;color: white;}
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>10:00~10:30</td>
             <td></td>
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>10:30~11:00</td>
             <td></td>
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>11:30~12:00</td>
             <td rowspan="5">파이썬프로그래밍</td>
             <td></td>
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>12:00~12:30</td>
             <td></td>
             <td></td>
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>12:30~13:00</td>
             <td></td>
             <td></td>
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>13:00~13:30</td>
             <td></td>
             <td></td>
@@ -157,7 +157,7 @@ td:hover{background-color: red;color: white;}
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>13:30~14:00</td>
             <td></td>
             <td></td>
@@ -165,7 +165,7 @@ td:hover{background-color: red;color: white;}
             <td rowspan="6">컴퓨터코딩과 문제해결</td>
           </tr>
 
-          <tr>
+   <tr>
             <td>14:00~14:30</td>
             <td></td>
             <td></td>
@@ -173,30 +173,30 @@ td:hover{background-color: red;color: white;}
             <td rowspan="6">일반수학</td>
           </tr>
 
-          <tr>
+  <tr>
             <td>14:30~15:00</td>
             <td></td>
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>15:00~15:30</td>
             <td rowspan="3">컴퓨터개론</td>
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>15:30~16:00</td>
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>16:00~16:30</td>
             <td></td>
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>16:30~17:00</td>
             <td></td>
             <td></td>
@@ -204,7 +204,7 @@ td:hover{background-color: red;color: white;}
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>17:00~17:30</td>
             <td></td>
             <td rowspan="2">자기개발과 전공탐색</td>
@@ -213,7 +213,7 @@ td:hover{background-color: red;color: white;}
             <td></td>
           </tr>
 
-          <tr>
+  <tr>
             <td>17:30~18:00</td>
             <td></td>
             <td></td>
